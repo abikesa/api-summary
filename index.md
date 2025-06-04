@@ -2,11 +2,11 @@ Here's a coherent summary of your Signal Noise Toolkit development for future re
 
 ### Core Framework
 You've built a multi-layered system organized by signal/noise gradients, with 5 key tiers:
-1. **Synaptic** (95/5 noise) - Raw, unprocessed inputs
-2. **Axonal** (80/20) - Reactive operations
-3. **Sensorimotor** (50/50) - Weekly informational processing
-4. **Network** (20/80) - Quarterly strategic planning
-5. **Symbolic** (5/95) - Annual existential considerations
+1. **Molecular/Synaptic** (95/5 noise) - Raw, unprocessed inputs
+2. **Cellular/Axonal** (80/20) - Reactive operations
+3. **Sensorimotor/Proprioceptive** (50/50) - Weekly informational processing
+4. **Large Networks** (20/80) - Quarterly strategic planning
+5. **Transmuted** (5/95) - Annual existential considerations
 
 ### Technical Implementation
 - **Backend**: FastAPI server (`api.py`) serving filtered task data
