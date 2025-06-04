@@ -6,11 +6,11 @@
 ### Layer Architecture
 | Layer | Noise/Signal | Timescale | Description |
 |-------|-------------|-----------|-------------|
-| Synaptic | 95/5 | Instantaneous | Raw potential, stochastic triggers |
-| Axonal | 80/20 | Daily | Reactive execution, operational tasks |
-| Sensorimotor | 50/50 | Weekly | Embodied feedback loops |
-| Network | 20/80 | Quarterly | Strategic planning and modeling |
-| Symbolic | 5/95 | Annual | Recursive symbolic intelligence |
+| Molecular/Synaptic | 95/5 | Instantaneous | Raw potential, stochastic triggers |
+| Cellular/Axonal | 80/20 | Daily | Reactive execution, operational tasks |
+| Sensorimotor/Proprioceptive | 50/50 | Weekly | Embodied feedback loops |
+| Network/Functional | 20/80 | Quarterly | Strategic planning and modeling |
+| Transmuted | 5/95 | Annual | Recursive symbolic intelligence |
 
 ### Biological Metaphors
 1. **Molecular/Synaptic**: "Charge and Code" (ukuvula)
