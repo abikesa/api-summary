@@ -1,6 +1,4 @@
-Here's a comprehensive Markdown documentation of your Signal Noise Toolkit development:
-
-```markdown
+ 
 # Signal Noise Toolkit Documentation
 
 ## Framework Overview
@@ -114,6 +112,4 @@ project-root/
 | API connection refused | Verify `uvicorn api:app --reload` is running |
 | Missing dependencies | Check `requirements.txt` and virtual environment |
 | GitHub Pages not updating | Confirm files are in root `/docs` folder |
-``` 
-
-This documentation captures the system architecture, implementation details, and operational knowledge without including the direct chat transcripts. The Markdown format makes it easy to maintain in your repository's `README.md` or `DOCUMENTATION.md`.
+ 
